@@ -38,7 +38,7 @@ Some usefull ressources, docs and tutorials.
 ### Sass
 
 - :book: Doc : http://sass-lang.com/documentation/file.SASS_REFERENCE.html
-- :page_with_curl: guidelines: http://sass-guidelin.es/
+- :+1: guidelines: http://sass-guidelin.es/
 - :movie_camera: https://www.youtube.com/playlist?list=PL2CB1F80266E986EA
 
 
