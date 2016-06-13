@@ -3,7 +3,7 @@ Some usefull ressources, docs and tutorials.
 ### Git
 
 - :book: https://www.atlassian.com/git/tutorials/
-- :movie_camera: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
+- :movie_camera: :fr: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
 
 
 ### Javascript
