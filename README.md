@@ -41,16 +41,16 @@ Some usefull ressources, docs and tutorials.
 
 ### Gulp
 
-- Doc : https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
+- :gb: Doc : https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
 - :movie_camera: https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos
 - :movie_camera: https://www.youtube.com/watch?v=-Q5v14O3Bmk
 
 
 ### Webpack
 
-- Doc : http://webpack.github.io/docs/
+- :gb: Doc : http://webpack.github.io/docs/
 - :movie_camera: :fr: https://www.youtube.com/watch?v=WG5IFCZxDO4
-- :movie_camera: :en: https://www.youtube.com/watch?v=9kJVYpOqcVU
+- :movie_camera: :gb: https://www.youtube.com/watch?v=9kJVYpOqcVU
 
 
 ### NodeJS
