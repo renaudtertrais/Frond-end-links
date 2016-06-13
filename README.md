@@ -9,12 +9,12 @@ Some usefull ressources, docs and tutorials.
 ### Javascript
 
 - :book: doc : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
-- :page_with_curl: guidelines : https://github.com/airbnb/javascript
+- :+1: guidelines : https://github.com/airbnb/javascript
 
 
 ### React
 - :book: Doc : https://facebook.github.io/react/docs/getting-started.html
-- :page_with_curl: guidelines: https://github.com/airbnb/javascript/tree/master/react
+- :+1: guidelines: https://github.com/airbnb/javascript/tree/master/react
 - :movie_camera: https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p
 
 
@@ -29,7 +29,7 @@ Some usefull ressources, docs and tutorials.
 ### CSS
 
 - :book: doc : https://developer.mozilla.org/fr/docs/Web/CSS/Reference
-- :page_with_curl: guidelines: http://cssguidelin.es/
+- :+1: guidelines: http://cssguidelin.es/
 
 
 ### Sass
