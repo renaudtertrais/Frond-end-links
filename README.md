@@ -53,9 +53,12 @@ Some usefull ressources, docs and tutorials.
 
 - :book: Doc : http://webpack.github.io/docs/
 - :movie_camera: https://www.youtube.com/watch?v=9kJVYpOqcVU
+- :movie_camera: ![egghead] by @kentcdodds https://egghead.io/courses/using-webpack-for-production-javascript-applications
 - :movie_camera: :fr: https://www.youtube.com/watch?v=WG5IFCZxDO4
 
 
 ### NodeJS
 
 - :book: Doc : https://nodejs.org/api/
+
+[egghead]: https://3e30e811207ebb1d2d1b43e8ae87920df04732f7.googledrive.com/host/0BzDsqfUCKa1bMjRod0dLaTQ5d1E/egghead.svg
