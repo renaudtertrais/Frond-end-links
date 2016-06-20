@@ -56,6 +56,9 @@ Some usefull ressources, docs and tutorials.
 - :movie_camera: ![egghead] by @kentcdodds https://egghead.io/courses/using-webpack-for-production-javascript-applications
 - :movie_camera: :fr: https://www.youtube.com/watch?v=WG5IFCZxDO4
 
+### Testing
+- :movie_camera: :fr: Serie by Grafikart https://www.youtube.com/playlist?list=PLjwdMgw5TTLWqnmYIogcaPVWoFLRsID6B
+
 
 ### NodeJS
 
