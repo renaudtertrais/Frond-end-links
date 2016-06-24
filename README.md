@@ -34,6 +34,7 @@ Some usefull ressources, docs and tutorials.
 - :package: React-redux: https://github.com/reactjs/react-redux
 - :package: Redux-thunk: https://github.com/gaearon/redux-thunk
 - :movie_camera: ![egghead] Dan Abramov "Getting Started with Redux" https://egghead.io/series/getting-started-with-redux
+- :movie_camera: ![egghead] Dan Abramov "Building React Applications with Idiomatic Redux" https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 - :movie_camera: Wes Bos's serie https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy
 - :movie_camera: React/Flux/Redux https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 
