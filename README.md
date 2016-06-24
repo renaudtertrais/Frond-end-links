@@ -12,6 +12,10 @@ Some usefull ressources, docs and tutorials.
 - :book: doc : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
 - :+1: guidelines : https://github.com/airbnb/javascript
 
+### ES6
+- :book: ES6 features https://github.com/lukehoban/es6features
+- :paper_clip: modules http://wesbos.com/javascript-modules/
+
 
 ### React
 - :book: Doc : https://facebook.github.io/react/docs/getting-started.html
