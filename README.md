@@ -14,7 +14,7 @@ Some usefull ressources, docs and tutorials.
 
 ### ES6
 - :book: ES6 features https://github.com/lukehoban/es6features
-- :paper_clip: modules http://wesbos.com/javascript-modules/
+- :paperclip: modules http://wesbos.com/javascript-modules/
 
 
 ### React
