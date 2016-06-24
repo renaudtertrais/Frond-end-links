@@ -63,7 +63,6 @@ Some usefull ressources, docs and tutorials.
 
 - :book: Doc : http://webpack.github.io/docs/
 - :movie_camera: https://www.youtube.com/watch?v=9kJVYpOqcVU
-- :movie_camera: ![egghead] by @kentcdodds https://egghead.io/courses/using-webpack-for-production-javascript-applications
 - :movie_camera: :fr: https://www.youtube.com/watch?v=WG5IFCZxDO4
 
 ### Testing
