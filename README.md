@@ -16,6 +16,8 @@ Some usefull ressources, docs and tutorials.
 - :book: ES6 features https://github.com/lukehoban/es6features
 - :paperclip: modules http://wesbos.com/javascript-modules/
 
+### Functionnal Programing
+- :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
 
 ### React
 - :book: Doc : https://facebook.github.io/react/docs/getting-started.html
