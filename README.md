@@ -31,6 +31,7 @@ Some usefull ressources, docs and tutorials.
 - :book: Doc : http://redux.js.org/
 - :paperclip: https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/d46k2bl
 - :paperclip: http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
+- :paperclip: [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 - :package: React-redux: https://github.com/reactjs/react-redux
 - :package: Redux-thunk: https://github.com/gaearon/redux-thunk
 - :movie_camera: ![egghead] Dan Abramov [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
