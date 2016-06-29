@@ -18,7 +18,8 @@ Some usefull ressources, docs and tutorials.
 
 ### Functionnal Programing
 - :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
-- :package: [RamdaJS](https://github.com/ramda/ramda)
+- :package: [Ramda](http://ramdajs.com/)
+- :package: [Immutable](https://facebook.github.io/immutable-js/)
 
 ### React
 - :book: Doc : https://facebook.github.io/react/docs/getting-started.html
