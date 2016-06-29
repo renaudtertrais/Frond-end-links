@@ -30,6 +30,7 @@ Some usefull ressources, docs and tutorials.
 - :+1: guidelines : https://github.com/airbnb/javascript
 
 ### ES6
+- :book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) 
 - :book: ES6 features https://github.com/lukehoban/es6features
 - :paperclip: modules http://wesbos.com/javascript-modules/
 
