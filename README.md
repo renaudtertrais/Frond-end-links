@@ -1,13 +1,28 @@
 Some usefull ressources, docs and tutorials.
 
+## CSS
 
-### Git
+### Vanilla
 
-- :book: https://www.atlassian.com/git/tutorials/
-- :movie_camera: :fr: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
+- :book: [MDN CSS reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
+- :book: [Codrops CSS Reference](http://tympanus.net/codrops/css_reference/)
+- :+1: [High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts](http://cssguidelin.es)
+- :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+- :+1: [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- :+1: [Scalable and Modular Architecture for CSS "SMACSS"](https://smacss.com/)
+- :+1: [BEM methodology](https://en.bem.info/methodology/)
+- :paperclip: [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.acr63t754)
 
+### Sass
 
-### Javascript
+- :book: [Official documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+- :+1: [Sass Guidelines : An opinionated styleguide for writing sane, maintainable and scalable Sass by Hugo Giraudel](http://sass-guidelin.es)
+- :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+- :movie_camera: ![leveluptuts] - [Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
+
+## Javascript
+
+### Vanilla
 
 - :book: doc : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
 - :+1: guidelines : https://github.com/airbnb/javascript
@@ -31,7 +46,6 @@ Some usefull ressources, docs and tutorials.
 - :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 
-
 ### Redux
 
 - :book: [Offical documentation](http://redux.js.org)
@@ -45,25 +59,22 @@ Some usefull ressources, docs and tutorials.
 - :movie_camera: [Wes Bos's serie "Learn Redux"](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
 - :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
+### Testing
 
-### CSS
+- :movie_camera: :fr: Serie by Grafikart https://www.youtube.com/playlist?list=PLjwdMgw5TTLWqnmYIogcaPVWoFLRsID6B
 
-- :book: [MDN CSS reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
-- :book: [Codrops CSS Reference](http://tympanus.net/codrops/css_reference/)
-- :+1: [High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts](http://cssguidelin.es)
-- :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
-- :+1: [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
-- :+1: [Scalable and Modular Architecture for CSS "SMACSS"](https://smacss.com/)
-- :+1: [BEM methodology](https://en.bem.info/methodology/)
-- :paperclip: [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.acr63t754)
 
-### Sass
+### NodeJS
 
-- :book: [Official documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
-- :+1: [Sass Guidelines : An opinionated styleguide for writing sane, maintainable and scalable Sass by Hugo Giraudel](http://sass-guidelin.es)
-- :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
-- :movie_camera: ![leveluptuts] - [Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
+- :book: Doc : https://nodejs.org/api/
 
+
+## Tools
+
+### Git
+
+- :book: https://www.atlassian.com/git/tutorials/
+- :movie_camera: :fr: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
 
 ### Gulp
 
@@ -78,15 +89,5 @@ Some usefull ressources, docs and tutorials.
 - :movie_camera: https://www.youtube.com/watch?v=9kJVYpOqcVU
 - :movie_camera: :fr: https://www.youtube.com/watch?v=WG5IFCZxDO4
 
-### Testing
-- :movie_camera: :fr: Serie by Grafikart https://www.youtube.com/playlist?list=PLjwdMgw5TTLWqnmYIogcaPVWoFLRsID6B
-
-
-### NodeJS
-
-- :book: Doc : https://nodejs.org/api/
-
 [egghead]: https://3e30e811207ebb1d2d1b43e8ae87920df04732f7.googledrive.com/host/0BzDsqfUCKa1bMjRod0dLaTQ5d1E/egghead.svg
 [leveluptuts]: https://3e30e811207ebb1d2d1b43e8ae87920df04732f7.googledrive.com/host/0BzDsqfUCKa1bMjRod0dLaTQ5d1E/leveluptuts.png
-
-
