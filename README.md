@@ -18,6 +18,8 @@ Some usefull ressources, docs and tutorials.
 
 ### Functionnal Programing
 - :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
+- :movie_camera: [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+- :movie_camera: [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - :package: [Ramda](http://ramdajs.com/)
 - :package: [Immutable](https://facebook.github.io/immutable-js/)
 
