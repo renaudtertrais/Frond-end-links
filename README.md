@@ -24,8 +24,8 @@ Some usefull ressources, docs and tutorials.
 ### React
 - :book: [Offical documentation](https://facebook.github.io/react/docs/getting-started.html)
 - :+1: [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-- :movie_camera: ![leveluptuts] [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
-- :movie_camera: ![egghead] [React Fundamentals](https://egghead.io/courses/react-fundamentals)
+- :movie_camera: ![leveluptuts] - [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
+- :movie_camera: ![egghead] - [React Fundamentals](https://egghead.io/courses/react-fundamentals)
 - :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 
@@ -38,8 +38,8 @@ Some usefull ressources, docs and tutorials.
 - :paperclip: [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 - :package: [React-redux](https://github.com/reactjs/react-redux)
 - :package: [Redux-thunk](https://github.com/gaearon/redux-thunk)
-- :movie_camera: ![egghead] [Getting Started with Redux by Dan Abramov](https://egghead.io/series/getting-started-with-redux)
-- :movie_camera: ![egghead] [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- :movie_camera: ![egghead] - [Getting Started with Redux by Dan Abramov](https://egghead.io/series/getting-started-with-redux)
+- :movie_camera: ![egghead] - [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - :movie_camera: [Wes Bos's serie "Learn Redux"](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
 - :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
@@ -60,7 +60,7 @@ Some usefull ressources, docs and tutorials.
 - :book: [Official documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 - :+1: [Sass Guidelines : An opinionated styleguide for writing sane, maintainable and scalable Sass by Hugo Giraudel](http://sass-guidelin.es)
 - :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
-- :movie_camera: ![leveluptuts] [Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
+- :movie_camera: ![leveluptuts] - [Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 
 
 ### Gulp
