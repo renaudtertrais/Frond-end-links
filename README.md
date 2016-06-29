@@ -22,44 +22,50 @@ Some usefull ressources, docs and tutorials.
 - :package: [Immutable](https://facebook.github.io/immutable-js/)
 
 ### React
-- :book: Doc : https://facebook.github.io/react/docs/getting-started.html
-- :+1: guidelines: https://github.com/airbnb/javascript/tree/master/react
-- :movie_camera: ![leveluptuts] https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p
-- :movie_camera: ![egghead] https://egghead.io/courses/react-fundamentals
-- :movie_camera: React/Flux/Redux https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+- :book: [Offical documentation](https://facebook.github.io/react/docs/getting-started.html)
+- :+1: [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+- :movie_camera: ![leveluptuts] [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
+- :movie_camera: ![egghead] [React Fundamentals](https://egghead.io/courses/react-fundamentals)
+- :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 
 
 ### Redux
 
-- :book: Doc : http://redux.js.org/
-- :paperclip: https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/d46k2bl
-- :paperclip: http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
+- :book: [Offical documentation](http://redux.js.org)
+- :paperclip: [Dan Abramov explanation on Reddit](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/d46k2bl)
+- :paperclip: [Dan Abramov explanation on Stackoverflow](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
 - :paperclip: [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
-- :package: React-redux: https://github.com/reactjs/react-redux
-- :package: Redux-thunk: https://github.com/gaearon/redux-thunk
-- :movie_camera: ![egghead] Dan Abramov [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-- :movie_camera: ![egghead] Dan Abramov [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-- :movie_camera: Wes Bos's serie https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy
-- :movie_camera: React/Flux/Redux https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+- :package: [React-redux](https://github.com/reactjs/react-redux)
+- :package: [Redux-thunk](https://github.com/gaearon/redux-thunk)
+- :movie_camera: ![egghead] [Getting Started with Redux by Dan Abramov](https://egghead.io/series/getting-started-with-redux)
+- :movie_camera: ![egghead] [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- :movie_camera: [Wes Bos's serie "Learn Redux"](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
+- :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 
 ### CSS
 
-- :book: doc : https://developer.mozilla.org/fr/docs/Web/CSS/Reference
-- :+1: guidelines: http://cssguidelin.es/
-
+- :book: [MDN CSS reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
+- :book: [Codrops CSS Reference](http://tympanus.net/codrops/css_reference/)
+- :+1: [High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts](http://cssguidelin.es)
+- :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+- :+1: [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- :+1: [Scalable and Modular Architecture for CSS "SMACSS"](https://smacss.com/)
+- :+1: [BEM methodology](https://en.bem.info/methodology/)
+- :paperclip: [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.acr63t754)
 
 ### Sass
 
-- :book: Doc : http://sass-lang.com/documentation/file.SASS_REFERENCE.html
-- :+1: guidelines: http://sass-guidelin.es/
-- :movie_camera: ![leveluptuts] https://www.youtube.com/playlist?list=PL2CB1F80266E986EA
+- :book: [Official documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+- :+1: [Sass Guidelines : An opinionated styleguide for writing sane, maintainable and scalable Sass by Hugo Giraudel](http://sass-guidelin.es)
+- :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+- :movie_camera: ![leveluptuts] [Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 
 
 ### Gulp
 
-- :book: Doc : https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
+- :book: [Official documentation]( https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 - :movie_camera: ![leveluptuts] https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos
 - :movie_camera: :fr: https://www.youtube.com/watch?v=-Q5v14O3Bmk
 
