@@ -80,6 +80,9 @@ Some usefull ressources, docs and tutorials.
 - :book: https://www.atlassian.com/git/tutorials/
 - :movie_camera: :fr: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
 
+### Github
+- :movie_camera: ![egghead] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
 ### Gulp
 
 - :book: [Official documentation]( https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
