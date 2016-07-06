@@ -81,7 +81,7 @@ Some usefull ressources, docs and tutorials.
 - :movie_camera: :fr: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
 
 ### Github
-- :movie_camera: ![egghead] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+- :movie_camera: ![egghead] - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 ### Gulp
 
