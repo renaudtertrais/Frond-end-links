@@ -32,6 +32,7 @@ Some usefull ressources, docs and tutorials.
 ### ES6
 - :book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) 
 - :book: ES6 features https://github.com/lukehoban/es6features
+- :book: [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
 - :paperclip: modules http://wesbos.com/javascript-modules/
 
 ### Functionnal Programing
