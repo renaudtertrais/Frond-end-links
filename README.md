@@ -26,15 +26,16 @@ Some usefull ressources, docs and tutorials.
 
 ### Vanilla
 
-- :book: doc : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
+- :book: [MDN Référence JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
 - :book: [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-- :+1: guidelines : https://github.com/airbnb/javascript
+- :+1: [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)
 
 ### ES6
 - :book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) 
-- :book: ES6 features https://github.com/lukehoban/es6features
+- :book: [ES6 features](https://github.com/lukehoban/es6features)
 - :book: [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
-- :paperclip: modules http://wesbos.com/javascript-modules/
+- :book: [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
+- :paperclip: [An Intro To Using npm and ES6 Modules for Front End Development](http://wesbos.com/javascript-modules/)
 
 ### Functionnal Programing
 - :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
