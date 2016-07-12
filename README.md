@@ -27,6 +27,7 @@ Some usefull ressources, docs and tutorials.
 ### Vanilla
 
 - :book: doc : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
+- :book: [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - :+1: guidelines : https://github.com/airbnb/javascript
 
 ### ES6
