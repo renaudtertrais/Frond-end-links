@@ -84,8 +84,9 @@ Some usefull ressources, docs and tutorials.
 - :book: https://www.atlassian.com/git/tutorials/
 - :movie_camera: :fr: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
 
-### Github
+### Github / Open source
 - :movie_camera: ![egghead] - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+- :movie_camera: ![egghead] - [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 
 ### Gulp
 
