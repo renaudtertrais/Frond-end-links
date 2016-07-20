@@ -36,6 +36,7 @@ Some usefull ressources, docs and tutorials.
 - :book: [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
 - :book: [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 - :paperclip: [An Intro To Using npm and ES6 Modules for Front End Development](http://wesbos.com/javascript-modules/)
+- :movie_camera: ![egghead] - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
 
 ### Functionnal Programing
 - :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
