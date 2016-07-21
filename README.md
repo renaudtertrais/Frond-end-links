@@ -68,12 +68,12 @@ Some usefull ressources, docs and tutorials.
 
 ### Testing
 
-- :movie_camera: :fr: Serie by Grafikart https://www.youtube.com/playlist?list=PLjwdMgw5TTLWqnmYIogcaPVWoFLRsID6B
+- :movie_camera: :fr: [Tester son code Javascript by Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWqnmYIogcaPVWoFLRsID6B)
 
 
 ### NodeJS
 
-- :book: Doc : https://nodejs.org/api/
+- :book: [Official documentation](https://nodejs.org/api/)
 
 
 
@@ -81,8 +81,9 @@ Some usefull ressources, docs and tutorials.
 
 ### Git
 
-- :book: https://www.atlassian.com/git/tutorials/
-- :movie_camera: :fr: https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP
+- :book: [Become a git guru. - Atlassian](https://www.atlassian.com/git/tutorials/)
+- :book: [Git Reference](http://gitref.org/)
+- :movie_camera: :fr: [Formation Git by Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP)
 
 ### Github / Open source
 - :movie_camera: ![egghead] - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
@@ -91,15 +92,16 @@ Some usefull ressources, docs and tutorials.
 ### Gulp
 
 - :book: [Official documentation]( https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
-- :movie_camera: ![leveluptuts] https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos
-- :movie_camera: :fr: https://www.youtube.com/watch?v=-Q5v14O3Bmk
+- :movie_camera: ![leveluptuts] [Learning Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
+- :movie_camera: :fr: [Tutoriel HTML : Gulp.js](https://www.youtube.com/watch?v=-Q5v14O3Bmk)
 
 
 ### Webpack
 
-- :book: Doc : http://webpack.github.io/docs/
-- :movie_camera: https://www.youtube.com/watch?v=9kJVYpOqcVU
-- :movie_camera: :fr: https://www.youtube.com/watch?v=WG5IFCZxDO4
+- :book: [Official documentation](http://webpack.github.io/docs/)
+- :book: [Webpack: an introduction](https://angular.io/docs/ts/latest/guide/webpack.html)
+- :movie_camera: [Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool](https://www.youtube.com/watch?v=9kJVYpOqcVU)
+- :movie_camera: :fr: [Tutoriel Javascript : Webpack, module bundler by Grafikart](https://www.youtube.com/watch?v=WG5IFCZxDO4)
 
 [egghead]: https://3e30e811207ebb1d2d1b43e8ae87920df04732f7.googledrive.com/host/0BzDsqfUCKa1bMjRod0dLaTQ5d1E/egghead.svg
 [leveluptuts]: https://3e30e811207ebb1d2d1b43e8ae87920df04732f7.googledrive.com/host/0BzDsqfUCKa1bMjRod0dLaTQ5d1E/leveluptuts.png
