@@ -43,7 +43,7 @@ Some usefull ressources, docs and tutorials.
 - :paperclip: [Dipping a toe into functional JS with lodash/fp](https://simonsmith.io/dipping-a-toe-into-functional-js-with-lodash-fp/)
 - :movie_camera: [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 - :movie_camera: [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
-- :package: [Lodash](https://github.com/lodash/lodash/tree/npm/fp)
+- :package: [Lodash](https://lodash.com/) - [Lodash FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide)
 - :package: [Ramda](http://ramdajs.com/)
 - :package: [Immutable](https://facebook.github.io/immutable-js/)
 
