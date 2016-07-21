@@ -1,4 +1,13 @@
-Some usefull ressources, docs and tutorials.
+# *Some usefull ressources, docs and tutorials...*
+
+
+:book: Documentations, guides, books  
+:+1: styleguides, Best practices, conventions  
+:paperclip: blog posts, comments, usefull links  
+:movie_camera: videos of talks, tutorials  
+:package: package, libraries, frameworks
+
+---
 
 ## CSS
 
