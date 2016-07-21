@@ -92,7 +92,7 @@ Some usefull ressources, docs and tutorials.
 ### Gulp
 
 - :book: [Official documentation]( https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
-- :movie_camera: ![leveluptuts] [Learning Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
+- :movie_camera: ![leveluptuts] - [Learning Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 - :movie_camera: :fr: [Tutoriel HTML : Gulp.js](https://www.youtube.com/watch?v=-Q5v14O3Bmk)
 
 
