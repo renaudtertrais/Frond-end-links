@@ -52,6 +52,7 @@
 - :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
 - :paperclip: [Dipping a toe into functional JS with lodash/fp](https://simonsmith.io/dipping-a-toe-into-functional-js-with-lodash-fp/)
 - :movie_camera: [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+- :movie_camera: [Functional programming in JavaScript by @mpj](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - :movie_camera: [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - :package: [Lodash](https://lodash.com/) - [Lodash FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide)
 - :package: [Ramda](http://ramdajs.com/)
