@@ -49,6 +49,7 @@
 
 ### Functionnal Programing
 - :book: [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md)
+- :paperclip: [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.hs723zypy)
 - :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
 - :paperclip: [Dipping a toe into functional JS with lodash/fp](https://simonsmith.io/dipping-a-toe-into-functional-js-with-lodash-fp/)
 - :movie_camera: [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
