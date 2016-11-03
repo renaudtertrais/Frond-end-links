@@ -27,7 +27,7 @@
 - :book: [Official documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 - :+1: [Sass Guidelines : An opinionated styleguide for writing sane, maintainable and scalable Sass by Hugo Giraudel](http://sass-guidelin.es)
 - :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
-- :movie_camera: ![leveluptuts] - [Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
+- :movie_camera: [Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 
 
 
@@ -45,7 +45,7 @@
 - :book: [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
 - :book: [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 - :paperclip: [An Intro To Using npm and ES6 Modules for Front End Development](http://wesbos.com/javascript-modules/)
-- :movie_camera: ![egghead] - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
+- :movie_camera: [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
 
 ### Functionnal Programing
 - :book: [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md)
@@ -63,8 +63,8 @@
 - :book: [Offical documentation](https://facebook.github.io/react/docs/getting-started.html)
 - :+1: [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - :paperclip: [Mixins Considered Harmful by Dan Abramov](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
-- :movie_camera: ![leveluptuts] - [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
-- :movie_camera: ![egghead] - [React Fundamentals](https://egghead.io/courses/react-fundamentals)
+- :movie_camera: [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
+- :movie_camera: [React Fundamentals](https://egghead.io/courses/react-fundamentals)
 - :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 
@@ -76,8 +76,8 @@
 - :paperclip: [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 - :package: [React-redux](https://github.com/reactjs/react-redux)
 - :package: [Redux-thunk](https://github.com/gaearon/redux-thunk)
-- :movie_camera: ![egghead] - [Getting Started with Redux by Dan Abramov](https://egghead.io/series/getting-started-with-redux)
-- :movie_camera: ![egghead] - [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- :movie_camera: [Getting Started with Redux by Dan Abramov](https://egghead.io/series/getting-started-with-redux)
+- :movie_camera: [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - :movie_camera: [Wes Bos's serie "Learn Redux"](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
 - :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
@@ -101,13 +101,13 @@
 - :movie_camera: :fr: [Formation Git by Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP)
 
 ### Github / Open source
-- :movie_camera: ![egghead] - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-- :movie_camera: ![egghead] - [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
+- :movie_camera: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+- :movie_camera: [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 
 ### Gulp
 
 - :book: [Official documentation]( https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
-- :movie_camera: ![leveluptuts] - [Learning Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
+- :movie_camera: [Learning Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 - :movie_camera: :fr: [Tutoriel HTML : Gulp.js](https://www.youtube.com/watch?v=-Q5v14O3Bmk)
 
 
@@ -117,6 +117,3 @@
 - :book: [Webpack: an introduction](https://angular.io/docs/ts/latest/guide/webpack.html)
 - :movie_camera: [Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool](https://www.youtube.com/watch?v=9kJVYpOqcVU)
 - :movie_camera: :fr: [Tutoriel Javascript : Webpack, module bundler by Grafikart](https://www.youtube.com/watch?v=WG5IFCZxDO4)
-
-[egghead]: https://3e30e811207ebb1d2d1b43e8ae87920df04732f7.googledrive.com/host/0BzDsqfUCKa1bMjRod0dLaTQ5d1E/egghead.svg
-[leveluptuts]: https://3e30e811207ebb1d2d1b43e8ae87920df04732f7.googledrive.com/host/0BzDsqfUCKa1bMjRod0dLaTQ5d1E/leveluptuts.png
