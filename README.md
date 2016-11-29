@@ -15,6 +15,7 @@
 
 - :book: [MDN CSS reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
 - :book: [Codrops CSS Reference](http://tympanus.net/codrops/css_reference/)
+- :book: [CSSReference.io](http://cssreference.io/)
 - :+1: [High-level advice and guidelines for writing sane, manageable, scalable CSS by Harry Roberts](http://cssguidelin.es)
 - :+1: [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
 - :+1: [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
