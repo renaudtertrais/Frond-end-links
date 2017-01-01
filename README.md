@@ -56,6 +56,7 @@
 - :movie_camera: [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 - :movie_camera: [Functional programming in JavaScript by @mpj](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - :movie_camera: [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
+- :movie_camera: [Professor Frisby Introduces Composable Functional JavaScript - egghead.io](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 - :package: [Lodash](https://lodash.com/) - [Lodash FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide)
 - :package: [Ramda](http://ramdajs.com/)
 - :package: [Immutable](https://facebook.github.io/immutable-js/)
