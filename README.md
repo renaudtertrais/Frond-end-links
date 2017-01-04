@@ -118,4 +118,5 @@
 - :book: [Official documentation](http://webpack.github.io/docs/)
 - :book: [Webpack: an introduction](https://angular.io/docs/ts/latest/guide/webpack.html)
 - :movie_camera: [Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool](https://www.youtube.com/watch?v=9kJVYpOqcVU)
+- :movie_camera: [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 - :movie_camera: :fr: [Tutoriel Javascript : Webpack, module bundler by Grafikart](https://www.youtube.com/watch?v=WG5IFCZxDO4)
