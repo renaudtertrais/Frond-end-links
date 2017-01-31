@@ -68,6 +68,7 @@
 - :movie_camera: [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 - :movie_camera: [React Fundamentals](https://egghead.io/courses/react-fundamentals)
 - :movie_camera: [React/Flux/Redux serie](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+- :movie_camera: [Build Your First Production Quality React App on Egghead.io](https://egghead.io/courses/build-your-first-production-quality-react-app)
 
 
 ### Redux
