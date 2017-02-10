@@ -107,6 +107,11 @@
 - :book: [Git Reference](http://gitref.org/)
 - :movie_camera: :fr: [Formation Git by Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP)
 
+### NPM
+
+- :book: [Official NPM documentation](https://docs.npmjs.com/)
+- :movie_camera: [How to Use npm Scripts as Your Build Tool on Egghead.io](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
+
 ### Github / Open source
 - :movie_camera: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 - :movie_camera: [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
@@ -125,3 +130,7 @@
 - :movie_camera: [Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool](https://www.youtube.com/watch?v=9kJVYpOqcVU)
 - :movie_camera: [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 - :movie_camera: :fr: [Tutoriel Javascript : Webpack, module bundler by Grafikart](https://www.youtube.com/watch?v=WG5IFCZxDO4)
+
+### Docker
+- :book: [Docker Official Documentation](https://docs.docker.com/)
+- :movie_camera: :fr: [Docker presentation by Grafikart](https://www.youtube.com/watch?v=XgKOC6X8W28)
