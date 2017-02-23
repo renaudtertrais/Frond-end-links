@@ -115,6 +115,7 @@
 ### Github / Open source
 - :movie_camera: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 - :movie_camera: [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
+- [Github's Open Source Guides](https://opensource.guide/)
 
 ### Gulp
 
