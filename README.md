@@ -113,9 +113,9 @@
 - :movie_camera: [How to Use npm Scripts as Your Build Tool on Egghead.io](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
 
 ### Github / Open source
+- :+1: [Github's Open Source Guides](https://opensource.guide/)
 - :movie_camera: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 - :movie_camera: [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
-- [Github's Open Source Guides](https://opensource.guide/)
 
 ### Gulp
 
