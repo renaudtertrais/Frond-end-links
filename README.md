@@ -48,8 +48,9 @@
 - :paperclip: [An Intro To Using npm and ES6 Modules for Front End Development](http://wesbos.com/javascript-modules/)
 - :movie_camera: [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
 
-### Functionnal Programing
+### Functionnal Programming
 - :book: [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md)
+- :book: [Professor Frisby's mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - :paperclip: [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.hs723zypy)
 - :paperclip: [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.l7wriz6jv)
 - :paperclip: [Dipping a toe into functional JS with lodash/fp](https://simonsmith.io/dipping-a-toe-into-functional-js-with-lodash-fp/)
