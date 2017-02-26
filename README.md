@@ -88,6 +88,9 @@
 
 ### Testing
 
+- :book: [Jest: Painless JavaScript Testing](https://facebook.github.io/jest/)
+- :package: [jest](https://github.com/facebook/jest)
+- :ava: [ava](https://github.com/avajs/ava)
 - :movie_camera: :fr: [Tester son code Javascript by Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWqnmYIogcaPVWoFLRsID6B)
 
 
