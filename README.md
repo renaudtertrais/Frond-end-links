@@ -80,6 +80,7 @@
 - :paperclip: [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 - :package: [React-redux](https://github.com/reactjs/react-redux)
 - :package: [Redux-thunk](https://github.com/gaearon/redux-thunk)
+- :package: [Redux-observable](https://github.com/redux-observable/redux-observable)
 - :movie_camera: [Getting Started with Redux by Dan Abramov](https://egghead.io/series/getting-started-with-redux)
 - :movie_camera: [Building React Applications with Idiomatic Redux by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - :movie_camera: [Wes Bos's serie "Learn Redux"](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
