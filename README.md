@@ -72,7 +72,7 @@
 - :movie_camera: [Build Your First Production Quality React App on Egghead.io](https://egghead.io/courses/build-your-first-production-quality-react-app)
 
 ### React Native
-- :paper_clip: [Learning React Native: where to start](https://hackernoon.com/learning-react-native-where-to-start-49df64cf14a2#.yx4ustuyl)
+- :paperclip: [Learning React Native: where to start](https://hackernoon.com/learning-react-native-where-to-start-49df64cf14a2#.yx4ustuyl)
 
 ### Redux
 
