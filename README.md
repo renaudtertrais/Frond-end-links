@@ -118,6 +118,7 @@
 
 - :book: [Official NPM documentation](https://docs.npmjs.com/)
 - :movie_camera: [How to Use npm Scripts as Your Build Tool on Egghead.io](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
+- :movie_camera: [Publish JavaScript packages on npm on Egghead.io](https://egghead.io/courses/publish-javascript-packages-on-npm)
 
 ### Github / Open source
 - :+1: [Github's Open Source Guides](https://opensource.guide/)
