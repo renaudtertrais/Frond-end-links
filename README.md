@@ -112,6 +112,7 @@
 
 - :book: [Become a git guru. - Atlassian](https://www.atlassian.com/git/tutorials/)
 - :book: [Git Reference](http://gitref.org/)
+- :movie_camera: [Git Flow explain in "GitHub Training & Guides - Professional Guides: Workflow Strategies"](https://www.youtube.com/watch?v=aJnFGMclhU8)
 - :movie_camera: :fr: [Formation Git by Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP)
 
 ### NPM
