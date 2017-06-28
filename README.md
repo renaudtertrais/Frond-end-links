@@ -64,6 +64,7 @@
 
 ### React
 - :book: [Offical documentation](https://facebook.github.io/react/docs/getting-started.html)
+- :book: [React Express: The all-in-one beginner's guide to modern React application development!](http://www.react.express/)
 - :+1: [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - :paperclip: [Mixins Considered Harmful by Dan Abramov](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
 - :movie_camera: [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
