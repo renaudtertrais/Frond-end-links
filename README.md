@@ -136,7 +136,7 @@
 
 ### Webpack
 
-- :book: [Official documentation](http://webpack.github.io/docs/)
+- :book: [Official documentation](https://webpack.js.org/configuration/)
 - :book: [Webpack: an introduction](https://angular.io/docs/ts/latest/guide/webpack.html)
 - :movie_camera: [Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool](https://www.youtube.com/watch?v=9kJVYpOqcVU)
 - :movie_camera: [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
