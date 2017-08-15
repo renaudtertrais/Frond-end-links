@@ -141,6 +141,7 @@
 - :movie_camera: [Webpack Tutorial - Replace Gulp/Grunt plugins with a single tool](https://www.youtube.com/watch?v=9kJVYpOqcVU)
 - :movie_camera: [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 - :movie_camera: :fr: [Tutoriel Javascript : Webpack, module bundler by Grafikart](https://www.youtube.com/watch?v=WG5IFCZxDO4)
+- :movie_camera: :fr: [Comprendre Webpack: a serie by Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVzGXGxEBdjwHXCeYnBb7n8)
 
 ### Docker
 - :book: [Docker Official Documentation](https://docs.docker.com/)
